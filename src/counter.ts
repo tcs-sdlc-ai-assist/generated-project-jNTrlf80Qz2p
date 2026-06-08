@@ -1,0 +1,1 @@
+/* Removed — this file was part of the Vite TypeScript template scaffold and is not used in this project. */
